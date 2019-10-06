@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(this, proximity.class);
             startActivity(intent);
         } else if (id == R.id.nav_tools) {
-            Intent intent = new Intent(this, map.class);
+            Intent intent = new Intent(this, map_test.class);
             startActivity(intent);
         } else if (id == R.id.nav_shake) {
             Intent intent = new Intent(this, shake.class);

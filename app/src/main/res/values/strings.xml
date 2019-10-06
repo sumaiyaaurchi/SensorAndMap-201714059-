@@ -13,7 +13,9 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
-    <string name="rotation_indicator">Ro</string>
+
     <string name="distance">Distance :</string>
     <string name="enter_source">Enter Source</string>
+    <string name="title_activity_map_test">Map</string>
+    <string name="normal_map">Normal Map</string>
 </resources>
