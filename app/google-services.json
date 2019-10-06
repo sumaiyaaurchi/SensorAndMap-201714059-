@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "407250442745",
+    "firebase_url": "https://assignmapnavsensor.firebaseio.com",
+    "project_id": "assignmapnavsensor",
+    "storage_bucket": "assignmapnavsensor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407250442745:android:f983da42865d43940d0528",
+        "android_client_info": {
+          "package_name": "com.example.assignmapnavsensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407250442745-tni2s9vrcgp5sj51m1tn11235sujgo0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignmapnavsensor",
+            "certificate_hash": "12ea4f9e613e7b59b5fdd64509084d606364b934"
+          }
+        },
+        {
+          "client_id": "407250442745-md3hee0asc9hlnd62r3v3lhcepg3kf27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJKHC-iYWfVOtYcnhN_I8XQKka8iMhwR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407250442745-md3hee0asc9hlnd62r3v3lhcepg3kf27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
